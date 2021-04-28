@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 20_newsgroups.tar.gz
 /20_newsgroups
+youtube_multinomial_naive_bayes_using_count_vectorizer.ipynb
